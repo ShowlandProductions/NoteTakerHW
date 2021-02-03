@@ -6,4 +6,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 Use the Note Taker App when you need to write, save, and delete notes. Express is used to save & retrieve information.
 ## Submitted Repositories
 - [Project Repository] https://github.com/ShowlandProductions/NoteTakerHW
-- [Deployed Heroku App]
+- [Deployed Heroku App] https://stormy-bayou-53561.herokuapp.com/
